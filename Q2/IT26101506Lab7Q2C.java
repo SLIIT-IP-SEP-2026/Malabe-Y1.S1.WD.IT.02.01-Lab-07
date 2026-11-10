@@ -1,4 +1,4 @@
-public class IT26102573Lab7Q2C {
+public class IT26102573Lab7Q2C{
 	public static void main(String[] args){
 		
 		int i = 5;
